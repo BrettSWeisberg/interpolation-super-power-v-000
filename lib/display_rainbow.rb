@@ -5,4 +5,4 @@
 
 Colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-display_rainbow(colors)
+def display_rainbow(colors)
